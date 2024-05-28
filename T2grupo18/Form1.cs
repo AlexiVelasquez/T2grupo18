@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace T2grupo18
 {
-    public partial class Form1 : Form
+    public partial class Veterinaria : Form
     {
-        public Form1()
+        public Veterinaria()
         {
             InitializeComponent();
+        }
+
+        private void Veterinaria_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

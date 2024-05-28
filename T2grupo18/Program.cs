@@ -16,7 +16,24 @@ namespace T2grupo18
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Veterinaria());
         }
+
+        
+
+
+    }
+
+    public class dueñodatos
+    {
+
+         public string nombre { get; set; }
+         public string direccion { get; set; }
+
+         public string telefono { get; set; }
+         
+
+
+
     }
 }
