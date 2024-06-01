@@ -21,7 +21,7 @@ namespace T2grupo18
         {
 
         }
-
+        //comentario prueba
         private void label1_Click(object sender, EventArgs e)
         {
 
