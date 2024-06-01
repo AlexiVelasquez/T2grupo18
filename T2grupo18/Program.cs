@@ -23,7 +23,7 @@ namespace T2grupo18
 
 
     }
-
+    // prueba
     public class dueñodatos
     {
 
